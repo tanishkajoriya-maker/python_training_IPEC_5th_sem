@@ -1,5 +1,4 @@
-"""
-10. Event Management Budget
+""" Event Management Budget
 
 Scenario:
 An event manager wants to calculate the cost contribution per participant.
@@ -31,4 +30,4 @@ Enter number of participants: 100
 Amount per Participant = 100.0
 
 === Code Execution Successful ===
-"""S
+"""
